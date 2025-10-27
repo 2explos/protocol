@@ -11,6 +11,23 @@ If you are instead looking for:
 1. How to get started, check out [farcaster.xyz](https://www.farcaster.xyz).
 2. Developer documentation, check out [docs.farcaster.xyz](https://docs.farcaster.xyz).
 
+### Quick Start (for developers)
+
+If you want to explore or test the protocol locally:
+
+```bash
+# Clone
+git clone https://github.com/farcasterxyz/protocol.git
+cd protocol
+
+# Install dependencies
+npm install
+
+# Build
+npm run build
+
+
+
 ## Specifications
 
 The specification is maintained as a Markdown file. There are three important sections:
